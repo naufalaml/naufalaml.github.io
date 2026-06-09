@@ -63,6 +63,7 @@ a {
 
 .navbar {
   z-index: 1000;
+  background: transparent;
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem 6rem;
